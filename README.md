@@ -12,9 +12,9 @@ $ apt update -y && apt upgrade -y
 $ termux-setup-storage
 $ pkg install git
 $ pkg install python -y
-$ git clone https://github.com/Xvenn-03/CPUORORv2.1.git
-$ cd CPUORORv2.1
-$ python CPUORORv2.py
+$ git clone https://github.com/Xvenn-03/DDOS-Dragon
+$ cd DDOS-Dragon
+$ python3 DDOS-D.py
 ```
 ## There is a problem?
 If there is a problem, please contact me immediately by copying the error so I can immediately fix the script.
