@@ -1,4 +1,4 @@
-# CPUORORv2.1
+# DDOS-DragonT1
 DDOS Dragon (distributed denial of service) is a tool that sends a number of packets to a target until the target is down or cannot be accessed normally, but will return to normal if the DDOS script is stopped. 
 
 ## The features in the script : 
